@@ -1,0 +1,9 @@
+/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug/CMakeFiles/qt_finalproject.dir
+/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug/CMakeFiles/edit_cache.dir
+/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug/CMakeFiles/list_install_components.dir
+/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug/CMakeFiles/install.dir
+/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug/CMakeFiles/install/local.dir
+/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug/CMakeFiles/install/strip.dir
+/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug/CMakeFiles/qt_finalproject_autogen_timestamp_deps.dir
+/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug/CMakeFiles/qt_finalproject_autogen.dir

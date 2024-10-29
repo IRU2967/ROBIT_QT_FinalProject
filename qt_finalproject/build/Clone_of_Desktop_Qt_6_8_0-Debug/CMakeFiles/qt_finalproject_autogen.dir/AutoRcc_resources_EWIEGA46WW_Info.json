@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug/qt_finalproject_autogen",
+	"CMAKE_BINARY_DIR" : "/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/ru/qt_finalproject",
+	"CMAKE_SOURCE_DIR" : "/home/ru/qt_finalproject",
+	"INCLUDE_DIR" : "/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug/qt_finalproject_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/ru/qt_finalproject/big_cactus.png",
+		"/home/ru/qt_finalproject/bird.png",
+		"/home/ru/qt_finalproject/bird1.png",
+		"/home/ru/qt_finalproject/cactus.png",
+		"/home/ru/qt_finalproject/dino2.png",
+		"/home/ru/qt_finalproject/dino3.png",
+		"/home/ru/qt_finalproject/dino.png",
+		"/home/ru/qt_finalproject/dino1.png"
+	],
+	"LOCK_FILE" : "/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug/CMakeFiles/qt_finalproject_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/ru/Qt/6.8.0/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/ru/qt_finalproject/build/Clone_of_Desktop_Qt_6_8_0-Debug/CMakeFiles/qt_finalproject_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/ru/qt_finalproject/resources.qrc",
+	"VERBOSITY" : 0
+}
